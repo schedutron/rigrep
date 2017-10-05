@@ -1,4 +1,4 @@
-# Reverse Index GREP
+# ![Logo](logo.png)
 
 
 ## Get Started
